@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=ARDUINO 1 Pin=U1-43
+Change Component Footprint: Designator=D4 Old Footprint=3.5X2.8X1.9 New Footprint=LED Blue 3mm TH V
+Change Component Footprint: Designator=D5 Old Footprint=3.5X2.8X1.9 New Footprint=LED Blue 3mm TH V
+Change Component Footprint: Designator=D6 Old Footprint=3.5X2.8X1.9 New Footprint=LED Blue 3mm TH V
+Change Component Footprint: Designator=D7 Old Footprint=3.5X2.8X1.9 New Footprint=LED Blue 3mm TH V
+Added Component: Designator=Q6(E3)
+Added Component: Designator=R17(3216[1206])
+Added Component: Designator=R18(3216[1206])
+Added Pin To Net: NetName=ARDUINO 2 Pin=Q6-1
+Added Pin To Net: NetName=GND Pin=Q6-3
+Added Pin To Net: NetName=ARDUINO 2 Pin=R17-1
+Added Pin To Net: NetName=9V Pin=R17-2
+Added Pin To Net: NetName=ARDUINO 2 Pin=R18-2
+Added Pin To Net: NetName=NetQ6_2 Pin=Q6-2
+Added Pin To Net: NetName=NetQ6_2 Pin=R18-1
+Added Net: Name=NetQ6_2
+Added Member To Class: ClassName=micro Member=Component Q6 BS170
+Added Member To Class: ClassName=micro Member=Component R17 Res Semi
+Added Member To Class: ClassName=micro Member=Component R18 Res Semi
+Added Room: Name=alimentacion
+Added Room: Name=micro
+Added Room: Name=puente H rama 1
+Added Room: Name=puente H rama 2
+Removed Pin From Net: NetName=ARDUINO 2 Pin=U1-16
+Added Pin To Net: NetName=ARDUINO 1 Pin=U1-16

@@ -1,0 +1,11 @@
+Added Room: Name=micro
+Added Room: Name=puente H rama 1
+Added Room: Name=puente H rama 2
+Removed Pin From Net: NetName=ARDUINO 1 Pin=Q6-1
+Added Pin To Net: NetName=ARDUINO 2 Pin=Q6-1
+Removed Pin From Net: NetName=ARDUINO 1 Pin=R17-1
+Added Pin To Net: NetName=ARDUINO 2 Pin=R17-1
+Removed Pin From Net: NetName=ARDUINO 2 Pin=R18-2
+Added Pin To Net: NetName=ARDUINO 1 Pin=R18-2
+Removed Pin From Net: NetName=ARDUINO 2 Pin=U1-16
+Added Pin To Net: NetName=ARDUINO 1 Pin=U1-16
