@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=Q6 NewDesignator=Q10
+Added Component: Designator=Q6(E3)
+Added Pin To Net: NetName=ARDUINO 2 Pin=Q6-1
+Added Pin To Net: NetName=GND Pin=Q6-3
+Added Pin To Net: NetName=NetQ10_2 Pin=Q10-2
+Added Pin To Net: NetName=NetQ10_2 Pin=R18-1
+Added Net: Name=NetQ10_2
+Added Member To Class: ClassName=alimentacion Member=Component Q10 BS170
+Removed Pin From Net: NetName=RELAY Pin=R18-2
+Added Pin To Net: NetName=ARDUINO 1 Pin=R18-2

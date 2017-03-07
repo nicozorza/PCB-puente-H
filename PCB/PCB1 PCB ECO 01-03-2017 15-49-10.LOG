@@ -1,8 +1,0 @@
-Added Room: Name=alimentacion
-Added Room: Name=micro
-Added Room: Name=puente H rama 1
-Added Room: Name=puente H rama 2
-Removed Pin From Net: NetName=5V Pin=RL2-2
-Added Pin To Net: NetName=VCC_2 Pin=RL2-2
-Removed Pin From Net: NetName=5V Pin=RL4-2
-Added Pin To Net: NetName=VCC_2 Pin=RL4-2

@@ -1,0 +1,420 @@
+Added Component: Designator=C1(A)
+Added Component: Designator=C2(A)
+Added Component: Designator=C3(C1206)
+Added Component: Designator=C4(C1206)
+Added Component: Designator=C5(A)
+Added Component: Designator=C6(C1206)
+Added Component: Designator=C7(A)
+Added Component: Designator=C8(C1206)
+Added Component: Designator=C9(A)
+Added Component: Designator=C10(C1206)
+Added Component: Designator=C11(A)
+Added Component: Designator=C12(C1206)
+Added Component: Designator=C13(A)
+Added Component: Designator=C14(A)
+Added Component: Designator=C16(A)
+Added Component: Designator=C17(C1206)
+Added Component: Designator=C18(C1206)
+Added Component: Designator=C20(C1206)
+Added Component: Designator=C21(A)
+Added Component: Designator=C22(C1206)
+Added Component: Designator=C23(Capacitor gigante)
+Added Component: Designator=C24(Capacitor gigante)
+Added Component: Designator=C_on(C1206)
+Added Component: Designator=C_reset(C1206)
+Added Component: Designator=Csalida(A)
+Added Component: Designator=CXTAL1(C1206)
+Added Component: Designator=CXTAL2(C1206)
+Added Component: Designator=D1(DO-201AD)
+Added Component: Designator=D2(DO-201AD)
+Added Component: Designator=D3(LED Blue 3mm TH V)
+Added Component: Designator=D4(LED Blue 3mm TH V)
+Added Component: Designator=D5(DO-201AD)
+Added Component: Designator=H1(DIP-6)
+Added Component: Designator=H2(DIP-6)
+Added Component: Designator=H3(DIP-6)
+Added Component: Designator=H4(DIP-6)
+Added Component: Designator=I1(TO-220AB)
+Added Component: Designator=I2(TO-220-AB)
+Added Component: Designator=I3(TO-220AB)
+Added Component: Designator=I4(TO-220-AB)
+Added Component: Designator=L1(TO-220AB)
+Added Component: Designator=L2(TO-220AB)
+Added Component: Designator=Lsalida(A)
+Added Component: Designator=P1(HDR1X2)
+Added Component: Designator=P2(HDR1X2)
+Added Component: Designator=P3(HDR1X2)
+Added Component: Designator=P4(HDR2X3)
+Added Component: Designator=Q1(E3)
+Added Component: Designator=Q2(E3)
+Added Component: Designator=Q3(E3)
+Added Component: Designator=Q4(E3)
+Added Component: Designator=Q6(E3)
+Added Component: Designator=Q10(E3)
+Added Component: Designator=R1(3216[1206])
+Added Component: Designator=R2(3216[1206])
+Added Component: Designator=R3(3216[1206])
+Added Component: Designator=R4(3216[1206])
+Added Component: Designator=R5(3216[1206])
+Added Component: Designator=R6(3216[1206])
+Added Component: Designator=R7(3216[1206])
+Added Component: Designator=R8(3216[1206])
+Added Component: Designator=R9(3216[1206])
+Added Component: Designator=R10(3216[1206])
+Added Component: Designator=R11(3216[1206])
+Added Component: Designator=R12(3216[1206])
+Added Component: Designator=R13(3216[1206])
+Added Component: Designator=R14(3216[1206])
+Added Component: Designator=R15(3216[1206])
+Added Component: Designator=R16(3216[1206])
+Added Component: Designator=R17(3216[1206])
+Added Component: Designator=R18(3216[1206])
+Added Component: Designator=R30(3216[1206])
+Added Component: Designator=R_on(3216[1206])
+Added Component: Designator=R_reset(3216[1206])
+Added Component: Designator=Rdescarga(AXIAL-0.3)
+Added Component: Designator=Rel1(Relay)
+Added Component: Designator=RL1(3216[1206])
+Added Component: Designator=RL2(3216[1206])
+Added Component: Designator=S1(IT-2175)
+Added Component: Designator=S2(IT-2175)
+Added Component: Designator=T1(TO-220-AB)
+Added Component: Designator=T2(TO-220-AB)
+Added Component: Designator=T3(TO-220-AB)
+Added Component: Designator=T4(TO-220-AB)
+Added Component: Designator=T5(TO-220-AB)
+Added Component: Designator=T6(TO-220-AB)
+Added Component: Designator=T7(TO-220-AB)
+Added Component: Designator=T8(TO-220-AB)
+Added Component: Designator=U?(40P6)
+Added Component: Designator=Y1(R38)
+Added Pin To Net: NetName=VCC_1 Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=9V Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=VCC_1 Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=9V Pin=C4-2
+Added Pin To Net: NetName=VCC_1 Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=VCC_1 Pin=C6-2
+Added Pin To Net: NetName=5V Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=5V Pin=C8-2
+Added Pin To Net: NetName=5V Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=5V Pin=C10-2
+Added Pin To Net: NetName=5V Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=5V Pin=C12-2
+Added Pin To Net: NetName=NetC13_1 Pin=C13-1
+Added Pin To Net: NetName=B1 Pin=C13-2
+Added Pin To Net: NetName=NetC14_1 Pin=C14-1
+Added Pin To Net: NetName=B2 Pin=C14-2
+Added Pin To Net: NetName=9V Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=9V Pin=C17-2
+Added Pin To Net: NetName=B1 Pin=C18-1
+Added Pin To Net: NetName=NetC13_1 Pin=C18-2
+Added Pin To Net: NetName=B2 Pin=C20-1
+Added Pin To Net: NetName=NetC14_1 Pin=C20-2
+Added Pin To Net: NetName=9V Pin=C21-1
+Added Pin To Net: NetName=GND Pin=C21-2
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=9V Pin=C22-2
+Added Pin To Net: NetName=NetC23_1 Pin=C23-1
+Added Pin To Net: NetName=GND Pin=C23-2
+Added Pin To Net: NetName=VCC_2 Pin=C24-1
+Added Pin To Net: NetName=NetC23_1 Pin=C24-2
+Added Pin To Net: NetName=GND Pin=C_on-1
+Added Pin To Net: NetName=ON-OFF Pin=C_on-2
+Added Pin To Net: NetName=GND Pin=C_reset-1
+Added Pin To Net: NetName=RESET Pin=C_reset-2
+Added Pin To Net: NetName=B2 Pin=Csalida-1
+Added Pin To Net: NetName=NetCsalida_2 Pin=Csalida-2
+Added Pin To Net: NetName=GND Pin=CXTAL1-1
+Added Pin To Net: NetName=XTAL1 Pin=CXTAL1-2
+Added Pin To Net: NetName=GND Pin=CXTAL2-1
+Added Pin To Net: NetName=XTAL2 Pin=CXTAL2-2
+Added Pin To Net: NetName=9V Pin=D1-1
+Added Pin To Net: NetName=NetC13_1 Pin=D1-2
+Added Pin To Net: NetName=9V Pin=D2-1
+Added Pin To Net: NetName=NetC14_1 Pin=D2-2
+Added Pin To Net: NetName=LED2 Pin=D3-1
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=LED1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_2 Pin=D4-2
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=VCC_1 Pin=D5-2
+Added Pin To Net: NetName=NetH1_1 Pin=H1-1
+Added Pin To Net: NetName=GND Pin=H1-2
+Added Pin To Net: NetName=NetH1_4 Pin=H1-4
+Added Pin To Net: NetName=B1 Pin=H1-5
+Added Pin To Net: NetName=NetC13_1 Pin=H1-6
+Added Pin To Net: NetName=NetH2_1 Pin=H2-1
+Added Pin To Net: NetName=GND Pin=H2-2
+Added Pin To Net: NetName=NetH2_4 Pin=H2-4
+Added Pin To Net: NetName=GND Pin=H2-5
+Added Pin To Net: NetName=9V Pin=H2-6
+Added Pin To Net: NetName=NetH3_1 Pin=H3-1
+Added Pin To Net: NetName=GND Pin=H3-2
+Added Pin To Net: NetName=NetH3_4 Pin=H3-4
+Added Pin To Net: NetName=B2 Pin=H3-5
+Added Pin To Net: NetName=NetC14_1 Pin=H3-6
+Added Pin To Net: NetName=NetH4_1 Pin=H4-1
+Added Pin To Net: NetName=GND Pin=H4-2
+Added Pin To Net: NetName=NetH4_4 Pin=H4-4
+Added Pin To Net: NetName=GND Pin=H4-5
+Added Pin To Net: NetName=9V Pin=H4-6
+Added Pin To Net: NetName=NetI1_2 Pin=I1-1
+Added Pin To Net: NetName=SAL_RELAY Pin=I1-2
+Added Pin To Net: NetName=B1 Pin=I1-3
+Added Pin To Net: NetName=NetI2_2 Pin=I2-1
+Added Pin To Net: NetName=B1 Pin=I2-2
+Added Pin To Net: NetName=GND Pin=I2-3
+Added Pin To Net: NetName=NetI3_2 Pin=I3-1
+Added Pin To Net: NetName=SAL_RELAY Pin=I3-2
+Added Pin To Net: NetName=B2 Pin=I3-3
+Added Pin To Net: NetName=NetI4_2 Pin=I4-1
+Added Pin To Net: NetName=B2 Pin=I4-2
+Added Pin To Net: NetName=GND Pin=I4-3
+Added Pin To Net: NetName=VCC_1 Pin=L1-1
+Added Pin To Net: NetName=GND Pin=L1-2
+Added Pin To Net: NetName=9V Pin=L1-3
+Added Pin To Net: NetName=VCC_1 Pin=L2-1
+Added Pin To Net: NetName=GND Pin=L2-2
+Added Pin To Net: NetName=5V Pin=L2-3
+Added Pin To Net: NetName=B1 Pin=Lsalida-1
+Added Pin To Net: NetName=NetCsalida_2 Pin=Lsalida-2
+Added Pin To Net: NetName=VCC_1 Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=VCC_2 Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=NetCsalida_2 Pin=P3-1
+Added Pin To Net: NetName=B2 Pin=P3-2
+Added Pin To Net: NetName=MISO Pin=P4-1
+Added Pin To Net: NetName=5V Pin=P4-2
+Added Pin To Net: NetName=SCK Pin=P4-3
+Added Pin To Net: NetName=MOSI Pin=P4-4
+Added Pin To Net: NetName=RESET Pin=P4-5
+Added Pin To Net: NetName=GND Pin=P4-6
+Added Pin To Net: NetName=NetH1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=GND Pin=Q1-3
+Added Pin To Net: NetName=NetH2_1 Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_2 Pin=Q2-2
+Added Pin To Net: NetName=GND Pin=Q2-3
+Added Pin To Net: NetName=NetH3_1 Pin=Q3-1
+Added Pin To Net: NetName=NetQ3_2 Pin=Q3-2
+Added Pin To Net: NetName=GND Pin=Q3-3
+Added Pin To Net: NetName=NetH4_1 Pin=Q4-1
+Added Pin To Net: NetName=NetQ4_2 Pin=Q4-2
+Added Pin To Net: NetName=GND Pin=Q4-3
+Added Pin To Net: NetName=ARDUINO 2 Pin=Q6-1
+Added Pin To Net: NetName=NetQ6_2 Pin=Q6-2
+Added Pin To Net: NetName=GND Pin=Q6-3
+Added Pin To Net: NetName=NetD5_1 Pin=Q10-1
+Added Pin To Net: NetName=NetQ10_2 Pin=Q10-2
+Added Pin To Net: NetName=GND Pin=Q10-3
+Added Pin To Net: NetName=ARDUINO 1 Pin=R1-1
+Added Pin To Net: NetName=NetQ1_2 Pin=R1-2
+Added Pin To Net: NetName=NetH1_1 Pin=R2-1
+Added Pin To Net: NetName=9V Pin=R2-2
+Added Pin To Net: NetName=NetH1_4 Pin=R3-1
+Added Pin To Net: NetName=NetC13_1 Pin=R3-2
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetH1_4 Pin=R4-2
+Added Pin To Net: NetName=ARDUINO 2 Pin=R5-1
+Added Pin To Net: NetName=NetQ2_2 Pin=R5-2
+Added Pin To Net: NetName=NetH2_1 Pin=R6-1
+Added Pin To Net: NetName=9V Pin=R6-2
+Added Pin To Net: NetName=NetH2_4 Pin=R7-1
+Added Pin To Net: NetName=9V Pin=R7-2
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetH2_4 Pin=R8-2
+Added Pin To Net: NetName=ARDUINO 2 Pin=R9-1
+Added Pin To Net: NetName=NetQ3_2 Pin=R9-2
+Added Pin To Net: NetName=NetH3_1 Pin=R10-1
+Added Pin To Net: NetName=9V Pin=R10-2
+Added Pin To Net: NetName=NetH3_4 Pin=R11-1
+Added Pin To Net: NetName=NetC14_1 Pin=R11-2
+Added Pin To Net: NetName=NetR12_1 Pin=R12-1
+Added Pin To Net: NetName=NetH3_4 Pin=R12-2
+Added Pin To Net: NetName=ARDUINO 1 Pin=R13-1
+Added Pin To Net: NetName=NetQ4_2 Pin=R13-2
+Added Pin To Net: NetName=NetH4_1 Pin=R14-1
+Added Pin To Net: NetName=9V Pin=R14-2
+Added Pin To Net: NetName=NetH4_4 Pin=R15-1
+Added Pin To Net: NetName=9V Pin=R15-2
+Added Pin To Net: NetName=NetR16_1 Pin=R16-1
+Added Pin To Net: NetName=NetH4_4 Pin=R16-2
+Added Pin To Net: NetName=ARDUINO 2 Pin=R17-1
+Added Pin To Net: NetName=9V Pin=R17-2
+Added Pin To Net: NetName=NetQ6_2 Pin=R18-1
+Added Pin To Net: NetName=ARDUINO 1 Pin=R18-2
+Added Pin To Net: NetName=NetQ10_2 Pin=R30-1
+Added Pin To Net: NetName=RELAY Pin=R30-2
+Added Pin To Net: NetName=ON-OFF Pin=R_on-1
+Added Pin To Net: NetName=5V Pin=R_on-2
+Added Pin To Net: NetName=RESET Pin=R_reset-1
+Added Pin To Net: NetName=5V Pin=R_reset-2
+Added Pin To Net: NetName=GND Pin=Rdescarga-1
+Added Pin To Net: NetName=NetRdescarga_2 Pin=Rdescarga-2
+Added Pin To Net: NetName=NetD5_1 Pin=Rel1-1
+Added Pin To Net: NetName=SAL_RELAY Pin=Rel1-2
+Added Pin To Net: NetName=VCC_1 Pin=Rel1-3
+Added Pin To Net: NetName=VCC_2 Pin=Rel1-4
+Added Pin To Net: NetName=NetRdescarga_2 Pin=Rel1-5
+Added Pin To Net: NetName=GND Pin=RL1-1
+Added Pin To Net: NetName=NetD3_2 Pin=RL1-2
+Added Pin To Net: NetName=GND Pin=RL2-1
+Added Pin To Net: NetName=NetD4_2 Pin=RL2-2
+Added Pin To Net: NetName=GND Pin=S1-1
+Added Pin To Net: NetName=RESET Pin=S1-2
+Added Pin To Net: NetName=GND Pin=S1-3
+Added Pin To Net: NetName=RESET Pin=S1-4
+Added Pin To Net: NetName=GND Pin=S2-1
+Added Pin To Net: NetName=ON-OFF Pin=S2-2
+Added Pin To Net: NetName=GND Pin=S2-3
+Added Pin To Net: NetName=ON-OFF Pin=S2-4
+Added Pin To Net: NetName=NetR4_1 Pin=T1-1
+Added Pin To Net: NetName=NetC13_1 Pin=T1-2
+Added Pin To Net: NetName=NetI1_2 Pin=T1-3
+Added Pin To Net: NetName=NetR4_1 Pin=T2-1
+Added Pin To Net: NetName=B1 Pin=T2-2
+Added Pin To Net: NetName=NetI1_2 Pin=T2-3
+Added Pin To Net: NetName=NetR8_1 Pin=T3-1
+Added Pin To Net: NetName=9V Pin=T3-2
+Added Pin To Net: NetName=NetI2_2 Pin=T3-3
+Added Pin To Net: NetName=NetR8_1 Pin=T4-1
+Added Pin To Net: NetName=GND Pin=T4-2
+Added Pin To Net: NetName=NetI2_2 Pin=T4-3
+Added Pin To Net: NetName=NetR12_1 Pin=T5-1
+Added Pin To Net: NetName=NetC14_1 Pin=T5-2
+Added Pin To Net: NetName=NetI3_2 Pin=T5-3
+Added Pin To Net: NetName=NetR12_1 Pin=T6-1
+Added Pin To Net: NetName=B2 Pin=T6-2
+Added Pin To Net: NetName=NetI3_2 Pin=T6-3
+Added Pin To Net: NetName=NetR16_1 Pin=T7-1
+Added Pin To Net: NetName=9V Pin=T7-2
+Added Pin To Net: NetName=NetI4_2 Pin=T7-3
+Added Pin To Net: NetName=NetR16_1 Pin=T8-1
+Added Pin To Net: NetName=GND Pin=T8-2
+Added Pin To Net: NetName=NetI4_2 Pin=T8-3
+Added Pin To Net: NetName=ON-OFF Pin=U?-3
+Added Pin To Net: NetName=MOSI Pin=U?-6
+Added Pin To Net: NetName=MISO Pin=U?-7
+Added Pin To Net: NetName=SCK Pin=U?-8
+Added Pin To Net: NetName=RESET Pin=U?-9
+Added Pin To Net: NetName=5V Pin=U?-10
+Added Pin To Net: NetName=GND Pin=U?-11
+Added Pin To Net: NetName=XTAL2 Pin=U?-12
+Added Pin To Net: NetName=XTAL1 Pin=U?-13
+Added Pin To Net: NetName=RELAY Pin=U?-20
+Added Pin To Net: NetName=ARDUINO 1 Pin=U?-21
+Added Pin To Net: NetName=5V Pin=U?-30
+Added Pin To Net: NetName=GND Pin=U?-31
+Added Pin To Net: NetName=LED2 Pin=U?-34
+Added Pin To Net: NetName=LED1 Pin=U?-35
+Added Pin To Net: NetName=XTAL1 Pin=Y1-1
+Added Pin To Net: NetName=XTAL2 Pin=Y1-2
+Added Member To Class: ClassName=alimentacion Member=Component C1 Cap Pol1
+Added Member To Class: ClassName=alimentacion Member=Component C2 Cap Pol1
+Added Member To Class: ClassName=alimentacion Member=Component C3 Cap
+Added Member To Class: ClassName=alimentacion Member=Component C4 Cap
+Added Member To Class: ClassName=micro Member=Component C5 Cap Pol1
+Added Member To Class: ClassName=micro Member=Component C6 Cap
+Added Member To Class: ClassName=micro Member=Component C7 Cap Pol1
+Added Member To Class: ClassName=micro Member=Component C8 Cap
+Added Member To Class: ClassName=micro Member=Component C9 Cap Pol1
+Added Member To Class: ClassName=micro Member=Component C10 Cap
+Added Member To Class: ClassName=micro Member=Component C11 Cap Pol1
+Added Member To Class: ClassName=micro Member=Component C12 Cap
+Added Member To Class: ClassName=puente H rama 1 Member=Component C13 Cap Pol1
+Added Member To Class: ClassName=puente H rama 2 Member=Component C14 Cap Pol1
+Added Member To Class: ClassName=puente H rama 1 Member=Component C16 Cap Pol1
+Added Member To Class: ClassName=puente H rama 1 Member=Component C17 Cap
+Added Member To Class: ClassName=puente H rama 1 Member=Component C18 Cap
+Added Member To Class: ClassName=puente H rama 2 Member=Component C20 Cap
+Added Member To Class: ClassName=puente H rama 2 Member=Component C21 Cap Pol1
+Added Member To Class: ClassName=puente H rama 2 Member=Component C22 Cap
+Added Member To Class: ClassName=alimentacion Member=Component C23 Cap Pol1
+Added Member To Class: ClassName=alimentacion Member=Component C24 Cap Pol1
+Added Member To Class: ClassName=micro Member=Component C_on Ci
+Added Member To Class: ClassName=micro Member=Component C_reset Ci
+Added Member To Class: ClassName=alimentacion Member=Component Csalida Cap
+Added Member To Class: ClassName=micro Member=Component CXTAL1 Ci
+Added Member To Class: ClassName=micro Member=Component CXTAL2 Ci
+Added Member To Class: ClassName=puente H rama 1 Member=Component D1 MUR460
+Added Member To Class: ClassName=puente H rama 2 Member=Component D2 MUR460
+Added Member To Class: ClassName=micro Member=Component D3 LED3
+Added Member To Class: ClassName=micro Member=Component D4 LED3
+Added Member To Class: ClassName=alimentacion Member=Component D5 MUR460
+Added Member To Class: ClassName=puente H rama 1 Member=Component H1 H11L1
+Added Member To Class: ClassName=puente H rama 1 Member=Component H2 H11L1
+Added Member To Class: ClassName=puente H rama 2 Member=Component H3 H11L1
+Added Member To Class: ClassName=puente H rama 2 Member=Component H4 H11L1
+Added Member To Class: ClassName=puente H rama 1 Member=Component I1 IRF540
+Added Member To Class: ClassName=puente H rama 1 Member=Component I2 IRF540
+Added Member To Class: ClassName=puente H rama 2 Member=Component I3 IRF540
+Added Member To Class: ClassName=puente H rama 2 Member=Component I4 IRF540
+Added Member To Class: ClassName=alimentacion Member=Component L1 LM7809
+Added Member To Class: ClassName=micro Member=Component L2 LM7805
+Added Member To Class: ClassName=alimentacion Member=Component Lsalida Inductor
+Added Member To Class: ClassName=alimentacion Member=Component P1 Header 2
+Added Member To Class: ClassName=alimentacion Member=Component P2 Header 2
+Added Member To Class: ClassName=alimentacion Member=Component P3 Header 2
+Added Member To Class: ClassName=micro Member=Component P4 Header 3X2
+Added Member To Class: ClassName=puente H rama 1 Member=Component Q1 BS170
+Added Member To Class: ClassName=puente H rama 1 Member=Component Q2 BS170
+Added Member To Class: ClassName=puente H rama 2 Member=Component Q3 BS170
+Added Member To Class: ClassName=puente H rama 2 Member=Component Q4 BS170
+Added Member To Class: ClassName=micro Member=Component Q6 BS170
+Added Member To Class: ClassName=alimentacion Member=Component Q10 BS170
+Added Member To Class: ClassName=puente H rama 1 Member=Component R1 Res1
+Added Member To Class: ClassName=puente H rama 1 Member=Component R2 Res1
+Added Member To Class: ClassName=puente H rama 1 Member=Component R3 Res1
+Added Member To Class: ClassName=puente H rama 1 Member=Component R4 Res1
+Added Member To Class: ClassName=puente H rama 1 Member=Component R5 Res1
+Added Member To Class: ClassName=puente H rama 1 Member=Component R6 Res1
+Added Member To Class: ClassName=puente H rama 1 Member=Component R7 Res1
+Added Member To Class: ClassName=puente H rama 1 Member=Component R8 Res1
+Added Member To Class: ClassName=puente H rama 2 Member=Component R9 Res1
+Added Member To Class: ClassName=puente H rama 2 Member=Component R10 Res1
+Added Member To Class: ClassName=puente H rama 2 Member=Component R11 Res1
+Added Member To Class: ClassName=puente H rama 2 Member=Component R12 Res1
+Added Member To Class: ClassName=puente H rama 2 Member=Component R13 Res1
+Added Member To Class: ClassName=puente H rama 2 Member=Component R14 Res1
+Added Member To Class: ClassName=puente H rama 2 Member=Component R15 Res1
+Added Member To Class: ClassName=puente H rama 2 Member=Component R16 Res1
+Added Member To Class: ClassName=micro Member=Component R17 Res Semi
+Added Member To Class: ClassName=micro Member=Component R18 Res Semi
+Added Member To Class: ClassName=alimentacion Member=Component R30 Res Semi
+Added Member To Class: ClassName=micro Member=Component R_on Res Semi
+Added Member To Class: ClassName=micro Member=Component R_reset Res Semi
+Added Member To Class: ClassName=alimentacion Member=Component Rdescarga Res1
+Added Member To Class: ClassName=alimentacion Member=Component Rel1 Relay
+Added Member To Class: ClassName=micro Member=Component RL1 Res Semi
+Added Member To Class: ClassName=micro Member=Component RL2 Res Semi
+Added Member To Class: ClassName=micro Member=Component S1 IT-2175
+Added Member To Class: ClassName=micro Member=Component S2 IT-2175
+Added Member To Class: ClassName=puente H rama 1 Member=Component T1 TIP110
+Added Member To Class: ClassName=puente H rama 1 Member=Component T2 TIP115
+Added Member To Class: ClassName=puente H rama 1 Member=Component T3 TIP110
+Added Member To Class: ClassName=puente H rama 1 Member=Component T4 TIP115
+Added Member To Class: ClassName=puente H rama 2 Member=Component T5 TIP110
+Added Member To Class: ClassName=puente H rama 2 Member=Component T6 TIP115
+Added Member To Class: ClassName=puente H rama 2 Member=Component T7 TIP110
+Added Member To Class: ClassName=puente H rama 2 Member=Component T8 TIP115
+Added Member To Class: ClassName=micro Member=Component U? ATmega16-16PU
+Added Member To Class: ClassName=micro Member=Component Y1 16MHz
+Added Room: Name=alimentacion
+Added Room: Name=micro
+Added Room: Name=puente H rama 1
+Added Room: Name=puente H rama 2

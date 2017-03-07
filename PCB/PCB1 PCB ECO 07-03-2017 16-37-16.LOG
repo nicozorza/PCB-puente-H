@@ -1,0 +1,8 @@
+Removed Member From Class: ClassName=micro Member=Q10
+Change Component Designator: OldDesignator=R18 NewDesignator=R30
+Added Component: Designator=R18(3216[1206])
+Added Pin To Net: NetName=NetQ6_2 Pin=Q6-2
+Added Pin To Net: NetName=NetQ6_2 Pin=R18-1
+Added Pin To Net: NetName=RELAY Pin=R30-2
+Added Member To Class: ClassName=micro Member=Component Q6 BS170
+Added Member To Class: ClassName=alimentacion Member=Component R30 Res Semi
