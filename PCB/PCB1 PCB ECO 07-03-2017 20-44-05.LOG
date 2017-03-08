@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=GND Pin=C_on-1
+Removed Pin From Net: NetName=ON-OFF Pin=C_on-2
+Removed Pin From Net: NetName=ON-OFF Pin=R_on-1
+Removed Pin From Net: NetName=5V Pin=R_on-2
+Removed Pin From Net: NetName=GND Pin=S2-1
+Removed Pin From Net: NetName=ON-OFF Pin=S2-2
+Removed Pin From Net: NetName=GND Pin=S2-3
+Removed Pin From Net: NetName=ON-OFF Pin=S2-4
+Removed Member From Class: ClassName=micro Member=C_on
+Removed Member From Class: ClassName=micro Member=C_on
+Removed Member From Class: ClassName=micro Member=R_on
+Removed Member From Class: ClassName=micro Member=R_on
+Removed Member From Class: ClassName=micro Member=S2
+Removed Member From Class: ClassName=micro Member=S2
+Added Room: Name=alimentacion
+Added Room: Name=micro
+Added Room: Name=puente H rama 1
+Added Room: Name=puente H rama 2

@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=VCC_1 Pin=D5-2
+Removed Pin From Net: NetName=GND Pin=Q10-3
+Removed Pin From Net: NetName=RELAY Pin=R30-2
+Removed Pin From Net: NetName=GND Pin=Rdescarga-1
+Removed Pin From Net: NetName=VCC_1 Pin=Rel1-3
+Removed Pin From Net: NetName=VCC_2 Pin=Rel1-4
+Removed Member From Class: ClassName=alimentacion Member=D5
+Removed Member From Class: ClassName=alimentacion Member=D5
+Removed Member From Class: ClassName=alimentacion Member=Q10
+Removed Member From Class: ClassName=alimentacion Member=Q10
+Removed Member From Class: ClassName=alimentacion Member=R30
+Removed Member From Class: ClassName=alimentacion Member=R30
+Removed Member From Class: ClassName=micro Member=R30
+Removed Member From Class: ClassName=alimentacion Member=Rdescarga
+Removed Member From Class: ClassName=alimentacion Member=Rdescarga
+Removed Member From Class: ClassName=alimentacion Member=Rel1
+Removed Member From Class: ClassName=alimentacion Member=Rel1
+Added Pin To Net: NetName=VCC_2 Pin=I1-2
+Added Pin To Net: NetName=VCC_2 Pin=I3-2
+Added Room: Name=alimentacion
+Added Room: Name=micro
+Added Room: Name=puente H rama 1
+Added Room: Name=puente H rama 2
